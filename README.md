@@ -20,7 +20,8 @@ HTML, CSS ve JavaScript kodlarını güvenilir ve hızlı şekilde JSON formatı
 1. **Sanal ortam oluşturun (isteğe bağlı ama önerilir)**
 
 Windows:
-python -m venv env
-env\Scripts\activate
-pip install -r requirements.txt
-python main.py
+- python -m venv env
+- env\Scripts\activate
+- pip install -r requirements.txt
+
+- python main.py
